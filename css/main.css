@@ -1,0 +1,240 @@
+
+/* Estilos header*/
+.size {
+	font-size: 14px;
+	color: #A8A8A8;
+}
+
+header a {
+	text-decoration: none;
+	color: #A8A8A8;
+}
+
+nav li {
+	display: inline-block;
+	text-decoration: none;
+	margin-top: 30px;
+	font-size: 16px;
+	border-right: 2px solid #A8A8A8;
+	padding: 0 15px;
+	font-family: Arial;
+}
+
+nav li:last-child {
+	border:none;
+}
+
+header img {
+	width: 90px;
+	height: 90px;
+}
+
+/*semilla*/
+.semilla {
+	background: url(../img/semilla.jpg);
+	height: 350px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-top: -10px;
+}
+
+/*fondo gris*/
+.gris {
+	position: relative;
+	max-width: 110%;
+	background-color: #F1F0F0;
+	bottom: 20px;
+	height: 170px;
+}
+
+.gris p {
+	position: relative;
+	margin-top: 70px;
+}
+
+/*mision*/
+.mision {
+	margin-top: 30px;
+}
+
+.mision h4 {
+	margin-top: 5px;
+	font-family: Arial;
+	margin-bottom: -5px;
+}
+
+.mision p {
+	padding: 0 50px;
+}
+
+/*metologia*/
+.metodologia .img{
+	background: url(../img/metodo.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+}
+
+.metodologia .green {
+	background: url(../img/fondo.JPG);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+	text-align: center;
+}
+
+.icono img {
+	width: 40px;
+	height: 40px;
+	margin: 70px 0 10px 0;
+}
+
+.icono p {
+	margin-top: 10px;
+	padding: 0 20px;
+}
+
+/*servicios*/
+.servicios {
+	margin-top: 50px;
+}
+
+.servicios p {
+	padding: 0 200px;
+}
+
+.gray {
+	color: #A8A8A8;
+	font-size: 12px;
+}
+
+.green {
+	color: #6A864A;
+	font-size: 16px;
+}
+
+/* estilo proyectos */ 
+.proyectos {
+	max-width: 100%;
+	background-color: #4E8A2F;
+}
+
+.proyectos h4 {
+	margin-left: 100px;
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+.proyectos img {
+	width: 350px;
+	height: 250px;
+	margin-left: 100px;
+}
+
+.cuadro-text {
+	width: 300px;
+	font-size: 12px;
+	margin-top: 80px;
+}
+
+.titulo {
+	font-family: Arial;
+}
+
+.cuadro-text p {
+	padding: 0 30px;
+}
+
+/* equipo */
+
+.equipo {
+	margin-top: 50px;
+}
+
+.integrantes img {
+	width: 200px;
+	border-radius: 100px;
+}
+
+.integrantes {
+	margin: 0 auto;
+	max-width: 100%;
+	font-size: 12px;
+}
+
+.integrantes a img{
+	width: 30px;
+	height: 30px;
+}
+
+.integrantes p {
+	width: 300px;
+	margin: 0 auto;
+}
+
+
+/* blog */
+
+.flecha {
+	margin-top: 100px;
+}
+
+.blog {
+	background: url(../img/fondo2.jpg);
+	max-width: 100%;
+	font-size: 12px;
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+.fotos {
+	max-width: 100%;
+	height: 200px;
+}
+.blog h1 {
+	color: black;
+	margin-left: 75px;
+}
+
+.oscuro {
+	color: #6E6D6D;
+}
+
+/* links */
+
+
+.links {
+	background-color: #545353;
+	max-width: 100%;
+	height: 250px;
+}
+
+.cuadros {
+	margin-top: 30px;
+}
+.redes {
+	max-width: 100%;
+	border: 1px solid #E3E0E0;
+	height: 200px;
+	position: relative;
+}
+
+.redes img {
+	width: 30px;
+	margin-left: 100px;
+	margin-top: 160px;
+	position: absolute;
+
+}
+
+.redes a {
+	text-decoration: none;
+	color: #E3E0E0;
+	margin: 10px 0 150px 10px;
+	position: absolute;
+	font-family: Arial;
+	color: #A8A8A8;
+}
